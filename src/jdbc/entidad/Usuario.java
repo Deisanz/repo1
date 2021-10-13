@@ -6,6 +6,7 @@ public class Usuario {
     private String nombre;
     private String apellido;
     private String David;
+    private String Sanchez;
 
     public Usuario() {
     }
