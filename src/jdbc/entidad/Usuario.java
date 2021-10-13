@@ -5,6 +5,7 @@ public class Usuario {
     private String correo;
     private String nombre;
     private String apellido;
+    private String David;
 
     public Usuario() {
     }
