@@ -7,6 +7,7 @@ public class Usuario {
     private String apellido;
     private String David;
     private String Sanchez;
+    private String atributo1;
 
     public Usuario() {
     }
